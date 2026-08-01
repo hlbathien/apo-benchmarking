@@ -1,0 +1,9 @@
+{
+  "benchmark_version": "APO-v29 final reported corpus",
+  "public_seed": 20260731,
+  "bundle_count": 144,
+  "prompt_count": 576,
+  "private_effective_seed_disclosed": false,
+  "exact_regeneration_claimed": false,
+  "note": "The complete reported prompt corpus is supplied directly; the generator supports fresh deterministic corpora."
+}

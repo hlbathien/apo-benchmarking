@@ -1,0 +1,7 @@
+{
+  "benchmark_version": "APO-v29 final reported corpus",
+  "public_seed": 20260731,
+  "canary": "apo:adversarial-prior-override:v29:executive-function-research-reasoning-reliability-canary-do-not-train",
+  "reported_effective_seed": null,
+  "reported_manifest_regeneration": "unavailable: the private effective seed is not present in the source workspace"
+}

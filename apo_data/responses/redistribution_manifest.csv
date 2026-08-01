@@ -1,0 +1,17 @@
+model,record_count,raw_response_included,reason
+anthropic/claude-haiku-4-5@20251001,576,False,No written redistribution permission for provider-generated response text.
+anthropic/claude-opus-4-5@20251101,576,False,No written redistribution permission for provider-generated response text.
+anthropic/claude-opus-4-6@default,576,False,No written redistribution permission for provider-generated response text.
+anthropic/claude-sonnet-4-5@20250929,576,False,No written redistribution permission for provider-generated response text.
+anthropic/claude-sonnet-4-6@default,576,False,No written redistribution permission for provider-generated response text.
+anthropic/claude-sonnet-4@20250514,576,False,No written redistribution permission for provider-generated response text.
+deepseek-ai/deepseek-v3.2,576,False,No written redistribution permission for provider-generated response text.
+google/gemini-2.5-flash,576,False,No written redistribution permission for provider-generated response text.
+google/gemini-3.1-flash-lite-preview,576,False,No written redistribution permission for provider-generated response text.
+google/gemini-3.1-pro-preview,576,False,No written redistribution permission for provider-generated response text.
+google/gemma-4-31b,576,False,No written redistribution permission for provider-generated response text.
+openai/gpt-5.4-2026-03-05,576,False,No written redistribution permission for provider-generated response text.
+openai/gpt-5.4-mini-2026-03-17,576,False,No written redistribution permission for provider-generated response text.
+openai/gpt-5.4-nano-2026-03-17,576,False,No written redistribution permission for provider-generated response text.
+qwen/qwen3-235b-a22b-instruct-2507,576,False,No written redistribution permission for provider-generated response text.
+zai/glm-5,576,False,No written redistribution permission for provider-generated response text.
